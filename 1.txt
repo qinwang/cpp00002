@@ -1,0 +1,49 @@
+#!/bin/bash
+
+source ./github/git_add_commit.sh
+
+
+git_add_commit c++.2018080910.tar.gz.aa
+git_add_commit c++.2018080910.tar.gz.ab
+git_add_commit c++.2018080910.tar.gz.ac
+git_add_commit c++.2018080910.tar.gz.ad
+git_add_commit c++.2018080910.tar.gz.ae
+git_add_commit c++.2018080910.tar.gz.af
+git_add_commit c++.2018080910.tar.gz.ag
+git_add_commit c++.2018080910.tar.gz.ah
+git_add_commit c++.2018080910.tar.gz.ai
+git_add_commit c++.2018080910.tar.gz.aj
+git_add_commit c++.2018080910.tar.gz.ak
+git_add_commit c++.2018080910.tar.gz.al
+git_add_commit c++.2018080910.tar.gz.am
+git_add_commit c++.2018080910.tar.gz.an
+git_add_commit c++.2018080910.tar.gz.ao
+git_add_commit c++.2018080910.tar.gz.ap
+git_add_commit c++.2018080910.tar.gz.aq
+git_add_commit c++.2018080910.tar.gz.ar
+git_add_commit c++.2018080910.tar.gz.as
+git_add_commit c++.2018080910.tar.gz.at
+git_add_commit c++.2018080910.tar.gz.au
+git_add_commit c++.2018080910.tar.gz.av
+git_add_commit c++.2018080910.tar.gz.aw
+git_add_commit c++.2018080910.tar.gz.ax
+git_add_commit c++.2018080910.tar.gz.ay
+git_add_commit c++.2018080910.tar.gz.az
+git_add_commit c++.2018080910.tar.gz.ba
+git_add_commit c++.2018080910.tar.gz.bb
+git_add_commit c++.2018080910.tar.gz.bc
+git_add_commit c++.2018080910.tar.gz.bd
+git_add_commit c++.2018080910.tar.gz.be
+git_add_commit c++.2018080910.tar.gz.bf
+git_add_commit c++.2018080910.tar.gz.bg
+git_add_commit c++.2018080910.tar.gz.bh
+git_add_commit c++.2018080910.tar.gz.bi
+git_add_commit c++.2018080910.tar.gz.bj
+git_add_commit c++.2018080910.tar.gz.bk
+git_add_commit c++.2018080910.tar.gz.bl
+git_add_commit c++.2018080910.tar.gz.bm
+git_add_commit c++.2018080910.tar.gz.bn
+git_add_commit c++.2018080910.tar.gz.bo
+git_add_commit c++.2018080910.tar.gz.bp
+git_add_commit c++.2018080910.tar.gz.bq
+git_add_commit c++.2018080910.tar.gz.br
